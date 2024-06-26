@@ -1,0 +1,14 @@
+C:\Users\augus\source\repos\DigiBank\bin\Debug\net8.0\DigiBank.exe
+C:\Users\augus\source\repos\DigiBank\bin\Debug\net8.0\DigiBank.deps.json
+C:\Users\augus\source\repos\DigiBank\bin\Debug\net8.0\DigiBank.runtimeconfig.json
+C:\Users\augus\source\repos\DigiBank\bin\Debug\net8.0\DigiBank.dll
+C:\Users\augus\source\repos\DigiBank\bin\Debug\net8.0\DigiBank.pdb
+C:\Users\augus\source\repos\DigiBank\obj\Debug\net8.0\DigiBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\augus\source\repos\DigiBank\obj\Debug\net8.0\DigiBank.AssemblyInfoInputs.cache
+C:\Users\augus\source\repos\DigiBank\obj\Debug\net8.0\DigiBank.AssemblyInfo.cs
+C:\Users\augus\source\repos\DigiBank\obj\Debug\net8.0\DigiBank.csproj.CoreCompileInputs.cache
+C:\Users\augus\source\repos\DigiBank\obj\Debug\net8.0\DigiBank.dll
+C:\Users\augus\source\repos\DigiBank\obj\Debug\net8.0\refint\DigiBank.dll
+C:\Users\augus\source\repos\DigiBank\obj\Debug\net8.0\DigiBank.pdb
+C:\Users\augus\source\repos\DigiBank\obj\Debug\net8.0\DigiBank.genruntimeconfig.cache
+C:\Users\augus\source\repos\DigiBank\obj\Debug\net8.0\ref\DigiBank.dll
